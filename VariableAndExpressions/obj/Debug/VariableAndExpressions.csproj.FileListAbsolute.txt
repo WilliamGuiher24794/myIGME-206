@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\bin\Debug\VariableAndExpressions.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\bin\Debug\VariableAndExpressions.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\bin\Debug\VariableAndExpressions.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\obj\Debug\VariableAndExpressions.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\obj\Debug\VariableAndExpressions.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\obj\Debug\VariableAndExpressions.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\VariableAndExpressions\obj\Debug\VariableAndExpressions.pdb

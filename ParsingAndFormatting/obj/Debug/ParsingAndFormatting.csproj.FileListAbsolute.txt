@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\obj\Debug\ParsingAndFormatting.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\obj\Debug\ParsingAndFormatting.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\bin\Debug\ParsingAndFormatting.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\bin\Debug\ParsingAndFormatting.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\bin\Debug\ParsingAndFormatting.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\obj\Debug\ParsingAndFormatting.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\ParsingAndFormatting\obj\Debug\ParsingAndFormatting.pdb

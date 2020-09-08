@@ -14,10 +14,11 @@ namespace ReverseString
         {
             string input;
             
-
+            //have user enter the string
             Console.WriteLine("Enter any string that you want");
             input = Console.ReadLine();
 
+            //start from the end of the string and work back to the front entering one leter at a time
             for(int i = input.Length-1; i >= 0; i--)
             {
                 Console.Write(input[i]);

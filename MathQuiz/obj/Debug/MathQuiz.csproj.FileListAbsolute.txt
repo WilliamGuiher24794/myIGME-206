@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\obj\Debug\MathQuiz.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuiz\obj\Debug\MathQuiz.pdb

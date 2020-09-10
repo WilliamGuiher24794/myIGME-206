@@ -1,0 +1,6 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\bin\Debug\FormulaCalculate.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\bin\Debug\FormulaCalculate.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\bin\Debug\FormulaCalculate.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\obj\Debug\FormulaCalculate.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\obj\Debug\FormulaCalculate.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\FormulaCalculate\obj\Debug\FormulaCalculate.pdb

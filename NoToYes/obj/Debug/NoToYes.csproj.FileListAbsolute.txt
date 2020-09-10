@@ -1,0 +1,6 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\bin\Debug\NoToYes.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\bin\Debug\NoToYes.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\bin\Debug\NoToYes.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\obj\Debug\NoToYes.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\obj\Debug\NoToYes.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NoToYes\obj\Debug\NoToYes.pdb

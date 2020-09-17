@@ -1,0 +1,6 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\bin\Debug\MathQuizUT1.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\bin\Debug\MathQuizUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\bin\Debug\MathQuizUT1.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\obj\Debug\MathQuizUT1.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\obj\Debug\MathQuizUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\MathQuizUT1\obj\Debug\MathQuizUT1.pdb

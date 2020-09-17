@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\bin\Debug\GiveRaise2.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\bin\Debug\GiveRaise2.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\bin\Debug\GiveRaise2.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\obj\Debug\GiveRaise2.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\obj\Debug\GiveRaise2.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\obj\Debug\GiveRaise2.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise2\obj\Debug\GiveRaise2.pdb

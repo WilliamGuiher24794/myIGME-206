@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\bin\Debug\3QuestionsUT1.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\bin\Debug\3QuestionsUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\bin\Debug\3QuestionsUT1.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\obj\Debug\3QuestionsUT1.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\obj\Debug\3QuestionsUT1.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\obj\Debug\3QuestionsUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\3QuestionsUT1\obj\Debug\3QuestionsUT1.pdb

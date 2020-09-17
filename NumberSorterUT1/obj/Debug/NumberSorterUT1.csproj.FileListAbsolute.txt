@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\bin\Debug\NumberSorterUT1.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\bin\Debug\NumberSorterUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\bin\Debug\NumberSorterUT1.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\obj\Debug\NumberSorterUT1.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\obj\Debug\NumberSorterUT1.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\obj\Debug\NumberSorterUT1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\NumberSorterUT1\obj\Debug\NumberSorterUT1.pdb

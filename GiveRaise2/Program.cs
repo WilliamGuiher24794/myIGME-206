@@ -26,19 +26,19 @@ namespace GiveRaise1
             worker.sName = Console.ReadLine();
 
 
-            GiveRaise(worker.sName, ref worker.dSalary);
+            GiveRaise(worker);
 
             Console.WriteLine("Name: " + worker.sName);
             Console.WriteLine("Salary: " + worker.dSalary);
         }
 
-        static bool GiveRaise(string name, ref double salary)
+        static bool GiveRaise(employee worker)
         {
             bool returnVal = false;
-            if (name == "william")
+            if (worker.sName == "william")
             {
                 returnVal = true;
-                salary += 19999.99;
+                worker.dSalary += 19999.99;
             }
             return returnVal;
         }

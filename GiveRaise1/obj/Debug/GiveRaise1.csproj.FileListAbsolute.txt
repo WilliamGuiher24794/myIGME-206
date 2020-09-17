@@ -1,0 +1,6 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\bin\Debug\GiveRaise1.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\bin\Debug\GiveRaise1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\bin\Debug\GiveRaise1.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\obj\Debug\GiveRaise1.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\obj\Debug\GiveRaise1.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\GiveRaise1\obj\Debug\GiveRaise1.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NU2yJH2QOu3AxAtehZFfizySdC3vFATmvRDoXCJcZS168fStHTDl0+fSZR84nGvmys2tl+JoLKkXGIivwRbLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guihe\\source\\repos\\github\\WilliamGuiher24794\\myIGME-206\\WarriorLib\\WarriorLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guihe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\guihe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

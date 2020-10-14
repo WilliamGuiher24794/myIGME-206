@@ -1,0 +1,8 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\bin\Debug\netstandard2.0\BattleLib.deps.json
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\bin\Debug\netstandard2.0\BattleLib.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\bin\Debug\netstandard2.0\BattleLib.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\obj\Debug\netstandard2.0\BattleLib.AssemblyInfoInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\obj\Debug\netstandard2.0\BattleLib.AssemblyInfo.cs
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\obj\Debug\netstandard2.0\BattleLib.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\obj\Debug\netstandard2.0\BattleLib.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\BattleLib\obj\Debug\netstandard2.0\BattleLib.pdb

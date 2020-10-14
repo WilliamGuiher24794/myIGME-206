@@ -1,0 +1,9 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\bin\Debug\netstandard2.0\Pillage.deps.json
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\bin\Debug\netstandard2.0\Pillage.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\bin\Debug\netstandard2.0\Pillage.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.AssemblyInfoInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.AssemblyInfo.cs
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\Pillage\obj\Debug\netstandard2.0\Pillage.pdb

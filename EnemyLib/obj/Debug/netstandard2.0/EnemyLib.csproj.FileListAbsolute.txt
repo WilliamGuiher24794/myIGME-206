@@ -1,0 +1,8 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\bin\Debug\netstandard2.0\EnemyLib.deps.json
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\bin\Debug\netstandard2.0\EnemyLib.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\bin\Debug\netstandard2.0\EnemyLib.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\obj\Debug\netstandard2.0\EnemyLib.AssemblyInfoInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\obj\Debug\netstandard2.0\EnemyLib.AssemblyInfo.cs
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\obj\Debug\netstandard2.0\EnemyLib.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\obj\Debug\netstandard2.0\EnemyLib.dll
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\EnemyLib\obj\Debug\netstandard2.0\EnemyLib.pdb

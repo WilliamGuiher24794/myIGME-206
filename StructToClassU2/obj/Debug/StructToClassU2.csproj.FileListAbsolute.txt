@@ -1,0 +1,7 @@
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\bin\Debug\StructToClassU2.exe.config
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\bin\Debug\StructToClassU2.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\bin\Debug\StructToClassU2.pdb
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\obj\Debug\StructToClassU2.csprojAssemblyReference.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\obj\Debug\StructToClassU2.csproj.CoreCompileInputs.cache
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\obj\Debug\StructToClassU2.exe
+C:\Users\guihe\source\repos\github\WilliamGuiher24794\myIGME-206\StructToClassU2\obj\Debug\StructToClassU2.pdb

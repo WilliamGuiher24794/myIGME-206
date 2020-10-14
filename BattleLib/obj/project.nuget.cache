@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "k2bZeQYzmhs6NsK6S1SQ8nrzwf1GyAqh9comD5uekRxzYn1oWw6Dw+3uEFTQbzBv4h6yF69W5JVQ3yXqOCalzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guihe\\source\\repos\\github\\WilliamGuiher24794\\myIGME-206\\BattleLib\\BattleLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guihe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\guihe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oRii0LAW3JRH40esWjHaXxQXk3nvgb3UcQJ5nxdonyoak4/H0OTiJZ9f2E5BSOQOYGSQqsuhr03i3plZOj4jjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\guihe\\source\\repos\\github\\WilliamGuiher24794\\myIGME-206\\Pillage\\Pillage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\guihe\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\guihe\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
